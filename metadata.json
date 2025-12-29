@@ -1,0 +1,7 @@
+{
+  "name": "SkyInsight Weather",
+  "description": "A premium weather application powered by Gemini and Google Search grounding for real-time, accurate weather insights and environmental data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
